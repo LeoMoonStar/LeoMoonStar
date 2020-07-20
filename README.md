@@ -1,5 +1,45 @@
 ### Hi there 👋
 
+```python
+>>> LeoMoonStar = SoftwareEngineer()
+
+>>> LeoMoonStar.getName()
+
+Jiawei Yang
+
+>>> LeoMoonStar.getLocation()
+
+Toronto, Ontario, Canada
+
+>>> LeoMoonStar.getEmail()
+```
+
+<lostmoonstar@gmail.com>
+
+```python
+
+>>> techStack = LeoMoonStar.techStack()
+
+>>> techStack.helloWrold()
+[   "printf('Hello World')",
+    "system.out.println('Hello World')",
+    "std::cout<<'Hello World'<<endl",
+    "console.log('hello world')",
+    "print('Hello World')",
+    "echo 'Hello World'"]
+>>> techStack.getFocusedArea()
+[   {"name":"Full stack development","length":3},
+    {"name":"Blockchain","length":3},
+    {"name":"Machine learning","length":1]
+
+>>> LeoMoonStar.__dict__.keys()
+dict_keys(['workOnYourProject','workOnHisProject', 'joinYourCompany', 'talkToHim','joinHisCompany'])
+
+>>> Please enter your command:
+```
+
+![Prify Philip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeoMoonStar&hide=["stars"]&show_icons=true)
+
 <!--
 **LeoMoonStar/LeoMoonStar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
