@@ -35,7 +35,8 @@ Toronto, Ontario, Canada
 >>> LeoMoonStar.__dict__.keys()
 dict_keys(['workOnYourProject','workOnHisProject', 'joinYourCompany', 'talkToHim','joinHisCompany'])
 
->>> Please enter your command:
+>>> LeoMoonStar.inviteInput()
+"please tell me what is your command: "
 ```
 
 ![Prify Philip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeoMoonStar&hide=["stars"]&show_icons=true)
